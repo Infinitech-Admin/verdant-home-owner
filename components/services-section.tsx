@@ -78,7 +78,7 @@ const PAYMENT_METHODS = [
 ];
 
 const stats = [
-  { label: "Active Services", value: "6+", icon: "✓" },
+  { label: "Active Services", value: "12", icon: "✓" },
   { label: "Households Served", value: "500+", icon: "🏘️" },
   { label: "Requests Processed", value: "2K+", icon: "📊" },
 ];
