@@ -1,0 +1,98 @@
+{
+  "id": "/",
+  "name": "Verdant Acres Community",
+  "short_name": "Verdant Acres",
+  "description": "Your gateway to community updates, homeowner services, and neighborhood resources in Verdant Acres Subdivision, Las Piñas City",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3a7d44",
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "lang": "en-PH",
+  "categories": ["lifestyle", "utilities", "social"],
+  "icons": [
+    {
+      "src": "icon512_maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon512_rounded.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Community Announcements",
+      "short_name": "Announcements",
+      "description": "Latest news and announcements from Verdant Acres",
+      "url": "/announcements",
+      "icons": [
+        {
+          "src": "icon512_rounded.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Homeowner Services",
+      "short_name": "Services",
+      "description": "Access homeowner association services and requests",
+      "url": "/services",
+      "icons": [
+        {
+          "src": "icon512_rounded.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Community Events",
+      "short_name": "Events",
+      "description": "Upcoming events and activities in Verdant Acres",
+      "url": "/events",
+      "icons": [
+        {
+          "src": "icon512_rounded.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-1280x720.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-540x720.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
